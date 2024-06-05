@@ -1,5 +1,5 @@
 In this challenge will be a simple quiz application  where questions are presented one at a time,
-and the user can select an answer. * This involves creating a quiz application using HTML for structure, 
+and the user can select an answer.  This involves creating a quiz application using HTML for structure, 
 CSS for styling, and JavaScript for functionality. 
 
 It uses arrays and objects to store quiz data and dynamically, renders questions and options on the webpage. 
